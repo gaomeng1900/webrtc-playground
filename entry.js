@@ -22,6 +22,10 @@ function createWindow(html) {
 app.whenReady().then(() => {
 	// createWindow('index1.html')
 	// createWindow('index2.html')
-	createWindow('index3.html')
+	// createWindow('index3.html')
+	// createWindow('index4.html')
+	// createWindow('index4B.html')
+	createWindow('index5.html')
+	createWindow('index5B.html')
 	// createWindow('./webrtc-web-master/step-02/index.html')
 })

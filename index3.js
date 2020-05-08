@@ -1,5 +1,7 @@
 console.log('3')
-// 双向视频流
+// 双向数据流
+// 单个数据体积限制 64kb/chrome
+// https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Using_data_channels#Understanding_message_size_limits
 
 // signaling server
 const ss = {}
